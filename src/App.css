@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.todo{
+  background-color: #82b74b;
+  color:black;
+  height: 100vh;
+  padding-top: 40px;
+  font-family:cursive
+  
+}
+.todoadd{
+  width:600px;
+  margin: 0 auto;
+  padding-top:50px ;
+  box-sizing: border-box;
+  border-color: black;
+  font-size: larger;
+  
+}
+.todolist{
+  
+  padding-top:15px ;
+  border-color: black;
+  font-size: larger;
+  width:600px;
+  margin: 0 auto;
+  box-shadow: #61dafb;
+}
+
+
+  
+.todoadd input{
+  text-align: center;
+  font-weight: 50;
+  font-size: large;
+  }
+ 
