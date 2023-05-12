@@ -8,7 +8,7 @@ class Todo extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            todoList: []
+            todoList: [] 
         }
 
         this.updateTodoState=this.updateTodoState.bind(this);
